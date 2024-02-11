@@ -1,1 +1,1 @@
-# Basit bir pyqt5 notepad programi 
+# PYQT5 NOTEPAD 
